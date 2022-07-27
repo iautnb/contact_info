@@ -1,6 +1,6 @@
 # professors contact info
 | نام و نام خانوادگی | راه ارتباطی | کانال و گروه | غیره |  
-| --------- | ----- | ----------- | ----------- | ----------- |
+| --------- | ----- | ----------- | ----------- |
 | ارژنگ ملک | [Email](mailto:tnbstudents@gmail.com), [Telegram](https://t.me/arzhangmalek) | [tnb_students](https://t.me/tnb_students) | - |
 | زهره مافی | [Email](mailto:mafizohreh@yahoo.com) | [ProjectMafi](https://t.me/ProjectMafi ) , [MafiProjectChat](https://t.me/MafiProjectChat) | - |  
 | امیرمسعود بیدگلی | [Email](mailto:DRAMBIDGOLI@gmail.com) | - | - |  
