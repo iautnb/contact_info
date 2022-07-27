@@ -6,7 +6,7 @@
 | امیرمسعود بیدگلی | [Email](mailto:DRAMBIDGOLI@gmail.com) | - | - |  
 | پویا آریائی، آریایی | [Email](mailto:pooya.aryayi@yahoo.com), [Telegram](https://t.me/pouya8968) | [operatingsystem](https://t.me/operatingsystem1400tehranshomal) | - |  
 | علی زارعی | [Telegram](https://t.me/Msa110288) | - | - |  
-| سروش مبشری | [Email](soroush.mobasheri@gmail.com), [Telegram](https://t.me/SoroushMobasheri) | [computer_tnb](https://t.me/computer_tnb) | [LinkedIn](https://www.linkedin.com/in/mobasheri/) |  
+| سروش مبشری | [Email](mailto:soroush.mobasheri@gmail.com), [Telegram](https://t.me/SoroushMobasheri) | [computer_tnb](https://t.me/computer_tnb) | [LinkedIn](https://www.linkedin.com/in/mobasheri/) |  
 | محمد سپه کار، سپهکار | [Telegram](https://t.me/Sepahkar) | - | [LinkedIn](https://www.linkedin.com/in/mohammad-sepahkar-b83579b2/) |
 
 
