@@ -6,7 +6,7 @@
 | امیرمسعود بیدگلی | DRAMBIDGOLI@gmail.com | - | - | - |  
 | پویا آریائی، آریایی | pooya.aryayi@yahoo.com, https://t.me/pouya8968 | - | https://t.me/operatingsystem1400tehranshomal | - |  
 | علی زارعی | https://t.me/Msa110288 | - | - | - |  
-<!-- | سروش مبشری | https://t.me/SoroushMobasheri | - | - | - |   -->
+| سروش مبشری | soroush.mobasheri@gmail.com, https://t.me/SoroushMobasheri | - | - | https://www.linkedin.com/in/mobasheri/ |  
 
 
 
