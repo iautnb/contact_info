@@ -1,5 +1,4 @@
 # professors contact info
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| FirtName | LastName | Email | PhoneNumber | Telegram Ch | description |  
+| -------- | -------- | ----- | ----------- | ----------- | ----------- |
+| FirtName | LastName | Email | PhoneNumber | Telegram Ch | description |  
