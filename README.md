@@ -1,5 +1,5 @@
 # professors contact info
-| نام و نام خانوداگی | راه ارتباطی | شماره تماس | کانال و گروه | غیره |  
+| نام و نام خانوادگی | راه ارتباطی | شماره تماس | کانال و گروه | غیره |  
 | --------- | ----- | ----------- | ----------- | ----------- |
 | ارژنگ ملک | tnbstudents@gmail.com, https://t.me/arzhangmalek | - | https://t.me/tnb_students | - |
 | زهره مافی | mafizohreh@yahoo.com | - | https://t.me/ProjectMafi , https://t.me/MafiProjectChat | -  |  
