@@ -1,4 +1,4 @@
-# professors contact info
+# راه های ارتباطی استاد های تهران شمال
 | نام و نام خانوادگی | راه ارتباطی | کانال و گروه | غیره |  
 | --------- | ----- | ----------- | ----------- |
 | ارژنگ ملک | [Email](mailto:tnbstudents@gmail.com), [Telegram](https://t.me/arzhangmalek) | [tnb_students](https://t.me/tnb_students) | - |
