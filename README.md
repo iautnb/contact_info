@@ -1,6 +1,11 @@
 # professors contact info
-| FirstName | LastName | Email, id | PhoneNumber | Telegram Ch | description |  
-| --------  | -------- | ----- | ----------- | ----------- | ----------- |
-| Arzhang  | Malek | tnbstudents@gmail.com, @arzhangmalek | - | https://t.me/tnb_students | ارژنگ ملک |  
+| FirstName , LastName | Email, id | PhoneNumber | Telegram Ch | description |  
+| --------- | ----- | ----------- | ----------- | ----------- |
+| ارژنگ ملک | tnbstudents@gmail.com, @arzhangmalek | - | @tnb_students | - |
+| زهره مافی | mafizohreh@yahoo.com | - | - | -  |  
+| امیرمسعود بیدگلی | DRAMBIDGOLI@gmail.com | - | - | -  |  
+
+
+
 <!-- | FirstName  | LastName | Email, id | PhoneNumber | Telegram Ch | description |   -->
 
