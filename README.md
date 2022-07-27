@@ -1,13 +1,15 @@
 # professors contact info
 | نام و نام خانوادگی | راه ارتباطی | شماره تماس | کانال و گروه | غیره |  
 | --------- | ----- | ----------- | ----------- | ----------- |
-| ارژنگ ملک | tnbstudents@gmail.com, https://t.me/arzhangmalek | - | https://t.me/tnb_students | - |
-| زهره مافی | mafizohreh@yahoo.com | - | https://t.me/ProjectMafi , https://t.me/MafiProjectChat | -  |  
-| امیرمسعود بیدگلی | DRAMBIDGOLI@gmail.com | - | - | - |  
-| پویا آریائی، آریایی | pooya.aryayi@yahoo.com, https://t.me/pouya8968 | - | https://t.me/operatingsystem1400tehranshomal | - |  
-| علی زارعی | https://t.me/Msa110288 | - | - | - |  
-| سروش مبشری | soroush.mobasheri@gmail.com, https://t.me/SoroushMobasheri | - | https://t.me/computer_tnb | LinkedIn: Soroush Mobasheri |  
-| محمد سپه کار، سپهکار | https://t.me/Sepahkar | - | - | LinkedIn: Mohammad Sepahkar |  
+| ارژنگ ملک | [Email](mailto:tnbstudents@gmail.com), [Telegram](https://t.me/arzhangmalek) | - | [tnb_students](https://t.me/tnb_students) | - |
+| زهره مافی | [Email](mailto:mafizohreh@yahoo.com) | - | [ProjectMafi](https://t.me/ProjectMafi ) , [MafiProjectChat](https://t.me/MafiProjectChat) | -  |  
+| امیرمسعود بیدگلی | [Email](mailto:DRAMBIDGOLI@gmail.com) | - | - | - |  
+| پویا آریائی، آریایی | [Email](mailto:pooya.aryayi@yahoo.com), [Telegram](https://t.me/pouya8968) | - | [operatingsystem](https://t.me/operatingsystem1400tehranshomal) | - |  
+| علی زارعی | [Telegram](https://t.me/Msa110288) | - | - | - |  
+| سروش مبشری | [Email](soroush.mobasheri@gmail.com), [Telegram](https://t.me/SoroushMobasheri) | - | [computer_tnb](https://t.me/computer_tnb) | [LinkedIn](https://www.linkedin.com/in/mobasheri/) |  
+| محمد سپه کار، سپهکار | [Telegram](https://t.me/Sepahkar) | - | - | [LinkedIn](https://www.linkedin.com/in/mohammad-sepahkar-b83579b2/) |
+
+
 
 
 
